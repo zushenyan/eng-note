@@ -1,4 +1,4 @@
-# My notes for learning English grammars
+# My Notes For Learning English Grammars
 
 ## Resources & References
 - https://www.perfect-english-grammar.com/grammar-explanations.html
