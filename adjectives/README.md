@@ -91,7 +91,7 @@ Irregular Adjectives
 
 > the adj-est
 
-[Check here for when to omit `the`.]()
+[Check here for when to omit `the`.](#the-in-superlative-adjectives)
 
 - `He's the most interesting guy.`
 - `He's my best student.`
