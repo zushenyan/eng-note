@@ -19,3 +19,4 @@
   - [Gerunds and Infinitives](verbs/gerunds-and-infinitives/README.md)
   - [Spelling and pronunciation](verbs/spelling-and-pronunciation/README.md)
 - [Articles](articles/README.md)
+- [Adjectives](adjectives/README.md)

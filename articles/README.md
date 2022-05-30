@@ -108,3 +108,32 @@ Town
 - With articles
   - `The town was larger than I thought.`
   - `I live in a town with only 20000 population.`
+
+# Geographical Names
+
+No article with
+- Lakes
+  - `We visited Lake Geneva.`
+- Mountains
+  - `We visited Mount Fuji.`
+- Continents
+  - `We travelled to Asia.`
+- Most countries
+  - `We travelled to Japan.`
+  - Except for `the USA / the United States`, `the UK / the United Kingdom`, `the Netherlands`, `the Philippines`
+- Counties, states, provinces, regions, cities, towns, villages
+  - `We live in California.`
+- Islands
+  - `We travelled to Bali.`
+
+Use with `the`
+- Rivers
+  - `This river is the River Nile.`
+- Mountain ranges
+  - `We ski in the Alps.`
+- Deserts
+  - `We travelled across the Sahara.`
+- Oceans & seas
+  - `We sailed around the Mediterranean.`
+- Groups of islands
+  - `We went to the Canary Islands.`
