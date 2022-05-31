@@ -1,0 +1,94 @@
+# Followed by a Clause
+
+- Because
+  - `I love it because my cat is cute.`
+  - `Because my cat is cute, I love it.`
+- As
+  - `I love it as my cat is cute.`
+  - `As my cat is cute, I love it.`
+- Since
+  - `I love it since my cat is cute.`
+  - `Since my cat is cute, I love it.`
+- For (mainly used in writings)
+  - `I love it, for my cat is cute.`
+- Like
+  - `I love coffee, like Julie (does).`
+- Although / Though
+  - `I love London although the weather is bad.`
+  - `Although the weather is bad, I still love London.`
+- Despite / In spite of the fact that
+  - `I love London despite the fact that the weather is bad.`
+  - `Despite the fact that the weather is bad, I love London.`
+  - `I love London in spite of the fact that the weather is bad.`
+  - `In spite of the fact that the weather is bad, I love London.`
+- Neither (not either of two things or people)
+  - `Neither of my parents like my boyfriend.`
+  - `Neither my mother nor my father like my boyfriend.`
+  - `Neither one of us is interested in gardening.`
+  - `They didn't go to the party, and neihter did I.`
+  - `"I don't like go jogging." "Me neither."`
+- In case
+  - `Bring a map in case you get lost.`
+  - `Take your mobile in case you need a call.`
+- Unless
+  - `You can't get a job unless you are experienced.`
+  - `Unless you are experienced, you can't get a job.`
+- Otherwise
+  - `Quit smoking, otherwise you will be ill.`
+  - `You'd better hurry, otherwise you will miss the train.`
+- As if/though
+  - `She looked as if she'd had bad some bad news.`
+  - `They stared me as if I was crazy.`
+  - `I felt as though I'd been lying in the sun for hours.`
+- Either
+  - `"Do you prefer pork or beef" "I don't like either."`
+  - `"Do you prefer pork or beef" "Either will do."`
+  - `We can either eat now or after the show.`
+- While / Whereas
+  - `He is about 60, whereas his wife looks about 30.`
+  - `While I accept her imperfection in many ways, I still love her.`
+
+# Followed by a Noun
+
+- Because of
+  - `We are unable to go out because of the rain.`
+  - `Because of the rain, we are unable to go out .`
+- Due to
+  - `We are unable to go out due to the rain.`
+  - `Due to the rain, we are unable to go out .`
+- Owning to
+  - `We are unable to go out owning to the rain.`
+  - `Owning to the rain, we are unable to go out .`
+- Despite / In spite of
+  - `I love London despite the bad weather.`
+  - `Despite the bad weather, I love London.`
+  - `I love London in spite of the bad weather.`
+  - `In spite of the bad weather, I love London.`
+- In case of
+  - `Bring a map in case of getting lost.`
+  - `Take your mobile in case of needing a call.`
+
+# Adverbs
+- However
+  - `I love London. However, the weather is bad.`
+  - `I love London. The weather, however, is bad.`
+  - `I love London. The weather is bad, however.`
+- Likewise / Similarly
+  - `I love my cat. Likewise, my cat loves me.`
+  - `I love my cat. My cat, likewise, loves me.`
+  - `I love my cat. My cat loves me, likewise.`
+- In the same way
+  - `I love my cat. In the same way, my cat loves me.`
+  - `I love my cat. My cat, in the same way, loves me.`
+  - `I love my cat. My cat loves me, in the same way.`
+- Nevertheless
+  - `He said his English was terrible. Nevertheless, he still got an 8 in IELTS.`
+- Yet
+  - `He looks very common, (and) yet somehow, he is attractive.`
+  - `He hasn't finished yet.`
+- By/In contrast
+  - `Their economy has expanded, while ours, by the contrast, has declined.`
+  - `Unempolyment rose in the UK. In contrast, the number of unemployed people in Canada fell.`
+- On/To the contrary
+  - `The problem hasn't disappeared. On the contrary, it's worsening.`
+  - `Experts perdicted the economy would collapse, but, to the contrary, it continuse to do well.`
