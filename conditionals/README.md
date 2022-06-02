@@ -36,10 +36,28 @@
   - `If I had bought a house, I wouldn't have to rent.`
   - `If he had invested in the stock market, he would have been a millionaire.`
   - `She would have been on time if she had left in the morning.`
-- Use `wish` or `if only` when we are sorry for something happened before, with an imaged result in the present.
-  - `I wish I'd bought the other house.`
-  - `If only I'd bought the other house.`
 
 # Mixed Conditional
 - `If you hadn't left the map at home, we wouldn't be lost.`
 - `If I weren't going on holiday next, I could have accepted that offer of work.` (I am going on holiday in the future which is why I didn't accept the offer of work in the past.)
+
+# Wish
+
+- To express we are sorry for something happened before, with an imaged result in the present.
+  - Wish
+    - `I wish I'd bought the other house.`
+  - If only
+    - `If only I'd bought the other house.`
+- Wish for an irritation that can change.
+  - `I wish you would make the bed.`
+  - `I wish people wouldn't throw litter on the street.`
+  - `I wish I would stop smoking.`
+- A formal way to say "want"
+  - `I wish to see the manager.`
+- To want something realized magically.
+  - `I wish for a pizza.`
+- To send good vibrations
+  - `I wish you good luck for your trip.`
+  - `We wish you a merry Christmas.`
+- Wish for the future
+  - `I hope you will pass the exam.`

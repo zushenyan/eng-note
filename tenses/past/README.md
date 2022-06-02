@@ -56,3 +56,29 @@
   - `The children had been playing in the hosue so here was a mess.`
   - `The pavement was wet. It had been raining.`
   - `I had been studying before you came in. That was why I looked tired.`
+
+# The Future in the Past
+
+- `be going to`
+  - `I was going to go for a run toda, but I feel tired now.`
+  - `I knew it was going to rain today.`
+- `be about to`
+  - `I was about to call him when he phoned me.`
+- Present continuous becomes past continuous
+  - `I was meeting a friend for lunch, but I've been too busy so I cancel it.`
+- `will` becomes `would`
+  - `I knew him would be late today.`
+- Future perfect becomes `would + have + pp`
+  - `It's almost lunchtime, I thought I would have done all my work by now.`
+
+# Soften the Tone
+
+- When a plan isn't certain
+  - `I was thinking of going to that party.`
+- To be polie
+  - `I was wondering if your report was ready.`
+- To sound more urgent
+  - `It's time we left`
+- With `suppose` and `what if` (It can be used with present tense, but with past tense the situation sounds less likely.)
+  - `Suppose we went on holiday to Thailand.`
+  - `What if we finished before the deadline?`

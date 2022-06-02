@@ -53,6 +53,10 @@
 | lack     | measure (have length) | possess        |
 | owe      | weigh (have weight)   |                |
 
+- In very informal English, sometimes we hear stativ verbs are used with continuous form to express a temporary state
+  - `I'm loving it.`
+  - `I'm hating this movie.`
+
 ## Verbs That Are Both Stative & Dynamic
 
 - Be
@@ -72,3 +76,18 @@
 - Taste
   - `The food tastes good.` (a feeling)
   - `He is tasting the food.` (an action of tasting)
+
+## Come / Bring / Go / Take
+
+Movements towards the place where the speaker is.
+- come
+  - `Do you want to come for dinner tonight?`
+- bring
+  - `Remember to bring your meal when you are here.`
+  - `I'll come and pick you up tomorrow. Do you want me to bring some food?`
+
+Movement away the place where the speaker is.
+- go
+  - `I'll go to the supermarket later.`
+- take
+  - `It's about to rain. Take this umbrella with you.`

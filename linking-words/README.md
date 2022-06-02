@@ -33,6 +33,8 @@
 - Unless
   - `You can't get a job unless you are experienced.`
   - `Unless you are experienced, you can't get a job.`
+  - `Don't shut down this computer unless (your are) instructed to do so.`
+  - `Unless (he is) given sufficient warning of the consequence, he will continue to misbehave.`
 - Otherwise
   - `Quit smoking, otherwise you will be ill.`
   - `You'd better hurry, otherwise you will miss the train.`
@@ -108,3 +110,5 @@
   - `The population has increased. As a result, the government is going to build more houses.`
 - Thus
   - `The population has increased. Thus, the government is going to build more houses.`
+- On the condition that
+  - `On the condition that you pay me extra, I'll work over the holiday.`
