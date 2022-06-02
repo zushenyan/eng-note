@@ -19,6 +19,8 @@
     - `You are too close! You are going to be hit.`
   - Plans
     - `A: We run out of milk. B: I know. I am going to get some.`
+- About to
+  - `I'm about to cook.`
 
 # Future Continuous
 
@@ -40,6 +42,9 @@
 - Action Finished Before A Point In The Future (use with `when + present simple`, `by the time + present simple`, `by + time`)
   - `By 10 o'lock, I will have it finished.`
   - `By the time I'm 30, I will have bought a house.`
+  - `If they're following the schedule, they will have arrived yesterday.`
+- Assumption
+  - `They won't have arrived yet. They only left twenty minutes ago.`
 
 # Future Perfect Continuous
 
@@ -51,3 +56,5 @@
   - `By the time she moves out, I will have been living here for 1 year` (`I have been living here for 11 months before she moves out` In contract to `present perfect continuous` to make numbers easier.)
 - Action Finished Before A Point In The Future (use with `when + present simple`, `by the time + present simple`)
   - `When you see me, I will have been studying all day , so I will be tired.`
+- Assumption
+  - `Sam didn't come home last night. He'll have been working all night to get his report finished on time.`

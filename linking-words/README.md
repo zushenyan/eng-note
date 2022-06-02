@@ -59,6 +59,9 @@
 - Owning to
   - `We are unable to go out owning to the rain.`
   - `Owning to the rain, we are unable to go out .`
+- As a result of
+  - `We are unable to go out as a result of the rain.`
+  - `As a result of the rain, we are unable to go out.`
 - Despite / In spite of
   - `I love London despite the bad weather.`
   - `Despite the bad weather, I love London.`
@@ -67,6 +70,9 @@
 - In case of
   - `Bring a map in case of getting lost.`
   - `Take your mobile in case of needing a call.`
+- (the fact that)
+  - `We are unable to go out because of the fact that it's raining.`
+  - `We are unable to go out owning to the fact that it's raining.`
 
 # Adverbs
 - However
@@ -92,3 +98,13 @@
 - On/To the contrary
   - `The problem hasn't disappeared. On the contrary, it's worsening.`
   - `Experts perdicted the economy would collapse, but, to the contrary, it continuse to do well.`
+- Therefore
+  - `We were unable to get funding and therefore had to abandon the project.`
+- Consequently
+  - `I was very worried, and consequently I couldn't concentrate.`
+  - `The population has increased. Consequently, the government is going to build more houses.`
+  - `The population has increased; consequently, the government is going to build more houses.`
+- As a result
+  - `The population has increased. As a result, the government is going to build more houses.`
+- Thus
+  - `The population has increased. Thus, the government is going to build more houses.`

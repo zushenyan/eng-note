@@ -10,7 +10,7 @@
 
 # First Conditional
 
-> If + present simple, will + infinitive
+> If + present simple, will + v
 
 - Possible things in the future.
   - `If you get up late, you will miss the bus.`
@@ -18,12 +18,12 @@
 
 # Second Conditional
 
-> If + past simple, would infinitive
+> If + past simple, would + v
 
 - Unlikely things in the future.
   - `If I won the lottery, I would buy a house.`
   - `She would pass the exam if she studied hard.`
-- Impossible things in the present.
+- Imagined present result of an impossible present condition.
   - `If I were you, I wouldn't do that.`
   - `If she had his number, she would call him.`
 - `were` can be used instead of `was` with `I/he/she/it`. Most in formal writing.
@@ -36,3 +36,10 @@
   - `If I had bought a house, I wouldn't have to rent.`
   - `If he had invested in the stock market, he would have been a millionaire.`
   - `She would have been on time if she had left in the morning.`
+- Use `wish` or `if only` when we are sorry for something happened before, with an imaged result in the present.
+  - `I wish I'd bought the other house.`
+  - `If only I'd bought the other house.`
+
+# Mixed Conditional
+- `If you hadn't left the map at home, we wouldn't be lost.`
+- `If I weren't going on holiday next, I could have accepted that offer of work.` (I am going on holiday in the future which is why I didn't accept the offer of work in the past.)

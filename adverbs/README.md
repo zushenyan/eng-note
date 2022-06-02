@@ -42,26 +42,37 @@
 
 > v + adv
 
-> adv + clause
+> adv + sentence
 
-> clause + adv
+> sentence + adv
 
 - `*Happily* I go to school`.
 - `I go *happily* to school`.
 - `I go to school *happily*`.
 
-## For frequency adverbs
+## For Frequency Adverbs
 
 > adv + v
 
-> adv + clause
+> adv + sentence
 
-> clase + adv
+> sentence + adv
 
 Frequency adverbs (`always`, `frequently`, `generally`, `hardly ever`, `never`, `normally`, `occasionally`, `rarely`, `regularly`, `seldom`, `sometimes`, `usually`...)
 - `*Always* I go to school.`
 - `I *always* go to school.`
 - `I go to school *always*.`
+
+For `be`, `have/has`, `will/would`, `modals`, adverb should be put after them.
+- `I'm *always* happy.`
+- `I've never done it.`
+- `I'll always love you.`
+- `You should sometimes go out for a walk.`
+
+## Put Adverbs After Gerunds and Infinitive
+
+- `He started cycling *professionally* in 2001.`
+- `I'd like to sit down *again*.`
 
 # Modern English
 
