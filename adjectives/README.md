@@ -83,3 +83,76 @@ Irregular Adjectives
 - `He's (the) best.`
 - `I'm most productive in the morning.`
 - `I'm the most productive in the morning`
+
+# Intensifiers
+
+## So
+> so + adj
+
+- `He's so funny!`
+
+> so + adv
+
+- `He plays the piano so well!`
+
+> so + many (countable) + n
+
+- `There are so many birds!`
+
+> so + much (uncountable) + n
+
+- `There are so much food!`
+
+> so + ... + that + cause and effect
+
+- `I was so excited so I jumped.`
+
+> so + n or v
+
+It's used in modern spoken English.
+
+- `The dress is so last year!` (The dress is last year's fashion.)
+- `I'm so going to shout at him when I see him.` (so == really)
+
+## Such
+
+> such + n (uncountable)
+
+- `It's such nice weather.`
+
+> such + a/an + n (countable and singular)
+
+- `It's such a cute dog.`
+
+> such + ... + that + cause and effect
+
+- `They had such an awful time that they said they'd never go again.` (In informal English, `that` is left out.)
+
+> too + adj/adv
+
+- `The restaurant is too crowded.`
+- `You're walking too fast.`
+
+> too + much + n (uncountable)
+
+- `It's too much water.`
+
+> too + many + n (countable)
+
+- `It's too many chickens.`
+
+> too + ... + to + v
+
+- `I am too tired to workout.`
+
+## Enough
+
+> adj + enough
+
+- `He doesn't sleep enough.`
+- `Is it warm enough?`
+
+> n + enough
+
+- `Do we have enough money to go aboard this year?`
+

@@ -112,3 +112,36 @@
   - `The population has increased. Thus, the government is going to build more houses.`
 - On the condition that
   - `On the condition that you pay me extra, I'll work over the holiday.`
+
+# Discourse Markers
+
+- You know
+  - `You know, I was organising an amazing dinner party last night?`
+- Actually
+  - `Acutally, it's more complicated than you think.`
+- Basically
+  - `So basically, everyone went home hungry and disappointed.`
+- Anyway
+  - `Anyway, how was it going?`
+- By the way
+  - `By the way, remember to bring the document at the next meeting.`
+- Mind you
+  - `Mind you, I did say "turn up when you want"...`
+- As I was saying
+  - `As I was saying, I burnt the meat.`
+- Come to think of it
+  - `Come to think of it, I completely forgot to serve dessert.`
+- To tell you the truth
+  - `She asked me if I liked her hair and I said I did, but to tell you the truth, it was awful.`
+- I mean
+  - `You can't just quit university. I mean, how on earth will you ever get a good job?`
+- You see
+  - `But you see I thought everyone would love the idea.`
+- In other words
+  - `She said that she had a headache. In other words, she didn't want to come.`
+- At the end of the day
+  - `Well, at the end of the day, it's money and Christmas is coming...`
+- I know
+  - `How can I manage my time better? I know, just use Google todo list!`
+- So to speak
+  - `That's a great idea. They'll ve over the moon, so to speak!`
