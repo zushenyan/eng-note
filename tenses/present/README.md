@@ -1,7 +1,7 @@
 # Present Simple
 
-Present
-  - Always True
+## Present
+- Always True
   - `The Sun rises in/from the east.`
   - `It snows in Winter here.`
 - Short Actions Happen Now
@@ -13,7 +13,7 @@ Present
 - Permanent(more or less) Situations
   - `He lives in New York.`
 
-Future
+## Future
 - Timetable
   - `The flight takes off at 8pm.`
   - `When does the class begin?`
@@ -21,15 +21,15 @@ Future
   - `I will get back to you when I have time.`
   - `The car won't stop until you brake.`
 
-Conditional Use
-  - Zero Conditional
-    - `If you heat water to 100 celcius celdegrees, it boils.`
+## Conditional Use
+- Zero Conditional
+  - `If you heat water to 100 celcius celdegrees, it boils.`
 
 # Present Continuous
 
 **In continuous tenses we can't use stative verbs.**
 
-Present
+## Present
 - Unfinished Actions Now (use with `now`, `at this moment`)
   - `She is cooking in the kitchen now.`
   - `Alan is sleeping.`
@@ -45,19 +45,19 @@ Present
   - `You are forever losing keys.`
   - `He is constantly missing the bus.`
 
-Future
-  - Definite Plans
-    - `We are going for a trip on/at the weekend.`
-    - `I am leaving at five.`
+## Future
+- Definite Plans
+  - `We are going for a trip on/at the weekend.`
+  - `I am leaving at five.`
 
 # Present Perfect
 
-Unfinished
+## Unfinished
 - How Long (use with `since`, `for`)
   - `I have worked here since 2000.`
   - `I haven't eaten any cheese for 3 days.`
 
-Finished
+## Finished
 - Present Result (Sometimes it can be replaced with **past simple** especially in US English)
   - `I have lost my keys.`
   - `She has borken her legs.`
@@ -79,7 +79,7 @@ Finished
 
 **In continuous tenses we can't use stative verbs.**
 
-Unfinished
+## Unfinished
 - How Long (use with `since`, `for`, `long`, `all day`)
   - `I have been living here for 15 years.`
   - `We have been waiting for hours.`
@@ -89,13 +89,13 @@ Unfinished
   - `He has been to the gym recently.`
   - `She has been living with her mother while she looks for a house.`
 
-Finished
+## Finished
 - Present Result (Actions rencetly stopped. No time words are used.)
   - `I'm so tired. I've been studying.`
   - `It has been raining so the pavement is wet.`
   - `She has been running so she feels hot now.`
 
-Key Differences Between `Present Perfect` Tense
+## Key Differences Between `Present Perfect` Tense
 - It emphasises the length of the time.
   - `We've been waiting for hours.`
 - It emphasises the action while `Present Perfect` emphasises the fact.
