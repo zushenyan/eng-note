@@ -83,7 +83,7 @@ Present
   - Positive (advice)
     - `Children shuold go to school.`
   - Negative (advice)
-    - `children shouldn't go to school.`
+    - `Children shouldn't go to school.`
 
 Past
 - `had to / didn't have to`
@@ -105,12 +105,12 @@ Past
 ## Permission (use with, `can`, `could`, `may`)
 - `Could I leave now?`
 - `You may not drive my car.`
-- `Can we swim in the lake.`
-
+- `Can we swim in the lake?`
 
 ## Habits (use with `will`, `would`)
+
 - `She will always be late.`
-- `When I lived there, I would often eat in restaurant nearby.`
+- `When I lived there, I would often eat in nearby restaurants.`
 
 Use `would have + pp` to talk about something you wanted to do but didn't.
 - `I would have gone to the party, but I was really busy.` (similar to `If I had enough time, I would have been to the party.`)

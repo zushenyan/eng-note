@@ -32,7 +32,7 @@ Do not make a participle clause with a confusing subject
 
 ## Can Be Combined With `not`
   
-- `Not knowing they baby selt, she phoned.`
+- `Not knowing the baby slept, she phoned.`
 
 The position of `not` could change the meaning.
   - `Knowing not to call because the baby slept, she waited until the next day.`

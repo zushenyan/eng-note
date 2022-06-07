@@ -5,8 +5,8 @@ Nouns that are both singular and plural have different meanings when using a sin
 For example, `economics`, `headquarters`, `series` and `fish`.
 
 - Sheep
-  - `The sheep is hered by the sheepdog into the farmer's van.` (it)
-  - `The sheep are hered by the sheepdog into the farmer's van.` (they)
+  - `The sheep is herded by the sheepdog into the farmer's van.` (it)
+  - `The sheep are herded by the sheepdog into the farmer's van.` (they)
 - Politics
   - `Their country's politics are a mystery to me.` (their opinion)
   - `Politics is a mystery to me.` (the subject)
@@ -36,7 +36,7 @@ Some nouns that always end with `s` should be used with singular verb. For examp
 Some nouns are collective, which means they represent a group. They should be always used with plural verbs.
 
 - `Congratulations are due to you on your birthday.`
-- `The supermarket has many fishes.`
+- `Fishes are swimming in the river.`
 - `My jeans don't fit anymore.`
 - `Are my glasses in the kitchen?`
 - `Tights were fashionable.`
