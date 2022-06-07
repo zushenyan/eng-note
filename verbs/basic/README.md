@@ -31,7 +31,7 @@
 - Verbs that cannot be used in continuous tense.
 - Verbs that aren't static are dynamic verbs.
 
-|          |                       |                |
+| verbs    | verbs                 | verbs          |
 | -------- | --------------------- | -------------- |
 | like     | know                  | belong         |
 | love     | realise               | fit            |
