@@ -36,20 +36,15 @@ Something that is generally possible. We know it happens from time to time.
 ## Ability
 
 There are two abilities
-- General
-  - read
-  - swim
-  - speak
-- Specific
-  - find
-  - lift
-  - fix
+- General (read, swim, speak... etc.)
+- Specific (find, lift, fix... etc.)
 
 Present
   - `can / can't` (for both general and specific)
     - `I can play piano.`
     - `She can speak English.`
     - `We can't come out.`
+
 Past
   - `could / couldn't` (general)
     - `I could read when I was four.`
@@ -62,6 +57,7 @@ Past
     - `She could have studied law, but she preferred to be a secretary.`
     - `I wouldn't have arrived any earlier. There was a traffic jam.` (impossible for me to have arrived any earlier.)
     - `He couldn't have passed the exam, even if he had studied hard.`
+
 Future
   - `will / won't be able to` (general)
     - `He won't be able to speak English in a month.`

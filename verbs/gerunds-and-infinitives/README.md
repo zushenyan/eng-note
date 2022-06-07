@@ -87,7 +87,7 @@
 | prepare      | They prepared to take the test.        |
 | demand       | She demands to talk to the manager.    |
 | choose       | He chooses to help.                    |
-| offer        | The company offer to compensate us.    |
+| offer        | The company offers to compensate us.   |
 | wait         | We wait to buy a ticket.               |
 | would hate   | I would hate to be late.               |
 | would love   | I would love to come.                  |

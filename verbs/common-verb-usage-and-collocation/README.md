@@ -111,7 +111,7 @@
 | your hair                 | When are you going to do your hair?                       |
 | harm                      | The kid tried to help but did more harm than good.        |
 | homework                  | Remember to do your homework.                             |
-| thr ironing               | I was doing my ironing when I heard the noise.            |
+| the ironing               | I was doing my ironing when I heard the noise.            |
 | a job                     | You did a great job.                                      |
 | the laundry/the washing   | I do the laundry every week.                              |
 | your nails                | Do you like to do your nails?                             |
