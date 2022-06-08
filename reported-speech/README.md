@@ -12,7 +12,7 @@ Normally speaking, we change the tenses the reported speech.
 | Past Perfect       | I had eaten rice.  | She said (that) she had eaten rice.                                     |
 | Will               | I will eat rice.   | She said (that) she would eat rice.                                     |
 | Would              | I would eat rice.  | She said (that) she would eat rice.                                     |
-| Can                | I can eat rice.    | She said (that) she can eat rice.                                       |
+| Can                | I can eat rice.    | She said (that) she could eat rice.                                     |
 | Could              | I could eat rice.  | She said (that) she could eat rice.                                     |
 | Shall              | I shall eat rice.  | She said (that) she would eat rice.                                     |
 | Should             | I should eat rice. | She said (that) she should eat rice.                                    |
