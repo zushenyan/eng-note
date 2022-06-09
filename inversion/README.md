@@ -116,4 +116,4 @@
 - `The girl was so beautiful that nobody could talk of anything else.`
   - `So beautiful was the girl that nobody could talk of anything else.`
 - `The food was so delicious that we ate every last bite.`
-  - `So delicious was the food that we ate every laste bite.`
+  - `So delicious was the food that we ate every last bite.`

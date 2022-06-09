@@ -138,9 +138,9 @@
 
 - `I have my brother wash my car.`
 
-> Get + sb + infinitive
+> Get + sb + to + infinitive
 
-- `I get my brother wash my car.`
+- `I get my brother to wash my car.`
 
 # Habit Phrases
 
