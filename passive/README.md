@@ -11,7 +11,7 @@
 - In informal writing instead of using someone/people/they.
   - `The brochure will be finished next week.`
 - To add new information to the end fo the sentence.
-  - `This book is used in the glass. This book is written by Dr. Foo.`
+  - `This book is used in the class. This book is written by Dr. Foo.`
 - To avoid long subject.
   - `I was surprised by how well the students did in the test.` (more natural than `How well the students did in the test surprised me.`)
 
@@ -24,8 +24,8 @@ Take `give` for example:
   - `He gave me the book.`
   - `He gave the book to me.`
 - passive
-  - `I was give the book (by him).`
-  - `The book was give to me (by him).`
+  - `I was given the book (by him).`
+  - `The book was given to me (by him).`
 
 # Tenses
 
