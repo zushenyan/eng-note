@@ -30,7 +30,7 @@ Example 3
 
 Not all verbs can be used ergatively, for example, `build` and `destroy`.
 
-# Unaccusatives
+# Unaccusative
 
 Intransitive verbs can't have passive voice.
 

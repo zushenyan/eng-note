@@ -55,7 +55,7 @@ Past
     - `I could have fixed it but I didn't have time to.`
     - `We could have come earlier.`
     - `She could have studied law, but she preferred to be a secretary.`
-    - `I wouldn't have arrived any earlier. There was a traffic jam.` (impossible for me to have arrived any earlier.)
+    - `I couldn't have arrived any earlier. There was a traffic jam.` (impossible for me to have arrived any earlier.)
     - `He couldn't have passed the exam, even if he had studied hard.`
 
 Future
