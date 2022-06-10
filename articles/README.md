@@ -5,7 +5,8 @@
 - Use with uncountable noun
   - `a little`
 - Use with both countable & uncountable noun
-  - `a lots of`
+  - `a lot of`
+  - `lots of`
 - When expressing something is **small amount but enoungh**
   - `I have a little money to lend you.`
   - `I have a few minutes to spare.`
@@ -34,7 +35,7 @@ We use `some`, `any` and `no aricle` before plural or countable nouns.
 
 Some
 - Use `some` with affirmative sentences.
-  - - `I have some eggs.`
+  - `I have some eggs.`
 - In questions that we expect the answer is yes.
   - `Would you like some coffee?`
 
@@ -120,7 +121,11 @@ No article with
   - `We travelled to Asia.`
 - Most countries
   - `We travelled to Japan.`
-  - Except for `the USA / the United States`, `the UK / the United Kingdom`, `the Netherlands`, `the Philippines`
+  - Except for
+    - `the USA / the United States`
+    - `the UK / the United Kingdom`
+    - `the Netherlands`
+    - `the Philippines`
 - Counties, states, provinces, regions, cities, towns, villages
   - `We live in California.`
 - Islands

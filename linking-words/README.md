@@ -39,7 +39,7 @@
   - `Quit smoking, otherwise you will be ill.`
   - `You'd better hurry, otherwise you will miss the train.`
 - As if/though
-  - `She looked as if she'd had bad some bad news.`
+  - `She looked as if she'd some bad news.`
   - `They stared me as if I was crazy.`
   - `I felt as though I'd been lying in the sun for hours.`
 - Either
@@ -95,7 +95,7 @@
   - `He looks very common, (and) yet somehow, he is attractive.`
   - `He hasn't finished yet.`
 - By/In contrast
-  - `Their economy has expanded, while ours, by the contrast, has declined.`
+  - `Their economy has expanded, while ours, by contrast, has declined.`
   - `Unempolyment rose in the UK. In contrast, the number of unemployed people in Canada fell.`
 - On/To the contrary
   - `The problem hasn't disappeared. On the contrary, it's worsening.`

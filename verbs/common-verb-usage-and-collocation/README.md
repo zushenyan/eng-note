@@ -148,11 +148,13 @@
 
 > Used to + infinitive
 
+It's mostly used without a story background. 
 - `I used to have a cup of coffee every morning.`
 - `Did you use to have breakfast in the morning?`
 
 > Would + infinitive
 
+It's mostly used with a story background (e.g. `when`)
 - `When I was a student, I would often have a drink after school.`
 - `I would do sightseeings on weekends when I lived in Sydney.`
 
