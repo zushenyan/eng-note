@@ -7,7 +7,7 @@
 - https://www.bbc.co.uk/learningenglish/intermediate-grammar-guide
 - https://www.bbc.co.uk/learningenglish/upper-intermediate-grammar-guide
 - https://www.bbc.co.uk/learningenglish/advanced-grammar-guide
-
+- https://www.grammarly.com/blog/compound-adjectives/
 
 ## Chapters
 
