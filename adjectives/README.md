@@ -156,3 +156,62 @@ It's used in modern spoken English.
 
 - `Do we have enough money to go aboard this year?`
 
+# Compound Adjectives
+
+## Combinations
+
+> adj + noun
+
+- short-term
+- first-time
+- long-distance
+
+> adj + present participle
+
+- fast-talking
+- Spanish-speaking
+- backward-facing
+
+> noun + past participle
+
+- whitewashed
+- sun-dried
+- homegrown
+
+> number + noun
+
+- second-place
+- nineteen-centrury
+- four-wheel
+
+> noun + adj
+
+- ice-cold
+- sky-blue
+- cruelty-free
+
+> noun + present participle
+
+- French-speaking
+- mouth-watering
+- self-effacing
+
+> adv + past participle
+
+- Tightly wound
+- overpopulated
+- undercooked
+
+> adj + past participle
+
+- double-backed
+- deep-fried
+- warm-blooded
+
+> noun + noun
+
+- seasick
+- meat eater
+- bulletproof
+
+## 
