@@ -1,6 +1,6 @@
 # Yes / No / Wh / Indirect / Tag
 
-![question-comparison](/questions/question-comparison.png)
+![question-comparison](question-comparison.png)
 
 # Subject And Object
 

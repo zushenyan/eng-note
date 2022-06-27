@@ -61,8 +61,8 @@
 # The Future in the Past
 
 - `be going to`
-  - `I was going to go for a run toda, but I feel tired now.`
-  - `I knew it was going to rain today.`
+  - `I was going to go for a run today, but I feel tired now.`
+  - `I knew it was going to rain.`
 - `be about to`
   - `I was about to call him when he phoned me.`
 - Present continuous becomes past continuous
