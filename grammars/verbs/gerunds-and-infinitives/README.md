@@ -7,7 +7,7 @@
 - After prepositions.
   - `I left a note before *leaving*.`
 - As a subject or object.
-  - `(Swimming) is her favourite sport.`
+  - `*Swimming* is her favourite sport.`
 
 | Gerund      | Example                             |
 | ----------- | ----------------------------------- |
@@ -74,7 +74,7 @@
 | ------------ | -------------------------------------- |
 | agree        | She agrees to buy a car.               |
 | ask          | I ask him about the rumor.             |
-| decide       | I deciede to take a bath.              |
+| decide       | I decide to take a bath.               |
 | help         | He helped to clean the kitchen.        |
 | plan         | They plan to take a vacation.          |
 | hope         | I hope to pass the exam.               |
@@ -102,7 +102,4 @@
 
 # Verbs followed by gerunds or infinitives with meaning change 
 
-![meaning-change](/verbs/gerunds-and-infinitives/meaning-change.png)
-
-
-
+![meaning-change](meaning-change.png)

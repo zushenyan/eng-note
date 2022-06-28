@@ -34,7 +34,7 @@ John drops the pen.
 
 - Normal
   - `Open the window, will you?`
-  - `Open the window , would you?`
+  - `Open the window, would you?`
 - To be more polite
   - `Open the window, won't you?`
 
