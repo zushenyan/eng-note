@@ -105,7 +105,7 @@ Town
 - without articles
   - `Is he in town at this monent?`
   - `Are you going into town?`
-  - `He left the town.`
+  - `He left town.`
 - With articles
   - `The town was larger than I thought.`
   - `I live in a town with only 20000 population.`

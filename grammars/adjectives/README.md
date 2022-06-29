@@ -147,12 +147,12 @@ It's used in modern spoken English.
 
 ## Enough
 
-> adj + enough
+> adj/verb + enough
 
 - `He doesn't sleep enough.`
 - `Is it warm enough?`
 
-> n + enough
+> enough + n
 
 - `Do we have enough money to go aboard this year?`
 
