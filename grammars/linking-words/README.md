@@ -144,4 +144,4 @@
 - I know
   - `How can I manage my time better? I know, just use Google todo list!`
 - So to speak
-  - `That's a great idea. They'll ve over the moon, so to speak!`
+  - `That's a great idea. They'll be over the moon, so to speak!`

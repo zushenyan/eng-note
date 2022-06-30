@@ -17,7 +17,7 @@
 
 # Verbs with two objects
 
-Verbs like `ask`, `offer`, `teach`, `tell`, `tell`, `promise`, `sell`, `throw`.
+Verbs like `ask`, `offer`, `teach`, `tell`, `promise`, `sell`, `throw`.
 
 Take `give` for example:
 - active
