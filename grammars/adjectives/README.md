@@ -214,4 +214,10 @@ It's used in modern spoken English.
 - meat eater
 - bulletproof
 
-## 
+## Age
+
+- `John is 16.`
+- `John is 16 years old.`
+- `John is 16-year-old.`
+- `John is 16-year-old boy.`
+- `This is reserved for 40-year-olds.`
