@@ -36,7 +36,7 @@ Normal degree
 - slide
 
 Strong degree
-- slump (to) / a slum
+- slump (to) / a slump
 - plummet (to)
   - `Tourists to the city plummets after September.`
 - plunge
