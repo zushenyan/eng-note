@@ -1,1 +1,1 @@
-# My Notes for combating with IETLS
+# My Notes for combating IETLS
