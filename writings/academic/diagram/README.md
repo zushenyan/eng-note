@@ -25,8 +25,8 @@
   - `The liquid flows out of the first container and into the bowl...`
 - to begin with
   - `This process begins with the raw materials arriving at the loading bay.`
-
-Placed into - After the first step, the tea leaves are placed under the dryer. 
+- be placed
+  - `After the first step, the tea leaves are placed under the dryer.`
 
 # Caveats
 
