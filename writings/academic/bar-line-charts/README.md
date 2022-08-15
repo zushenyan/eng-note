@@ -34,6 +34,7 @@ Normal degree
 - slip back
 - go down
 - slide
+- tail off
 
 Strong degree
 - slump (to) / a slump
