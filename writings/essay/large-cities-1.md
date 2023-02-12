@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1213/)
+
+Undoubtedly, there are many advantages to living in large cities, such as its convenience and accessibility to ample amenities. Nevertheless, living in such a highly population-dense place comes with a price. To name a few, like the high cost of living, unaffordable rent, safety concerns, traffic congestion and so forth. Here I am going to elaborate and try to tackle them.
+
+The foremost issue for a city could be its high living cost. In most large cities, the housing prices put off most people, so they are forced to move to distant places. Take downtown Vancouver for example. The rent of a one-bedroom suite is so high that people on the average salary are unlikely to afford it. Though some think it is a free market and governments should not intervene, having a place to live is essential for any human being, in my opinion. Governments should start legislating laws to prevent house prices from keep going up.
+
+As the rent price drives people out of a city, the rent issue is highly related to another worry that almost all large cities have - the traffic. Businesses usually set up their offices in the heart of a metropolis, which is being said, habitants living in the suburbs have to commute to work. The blockage of roads during rushing hours makes travelling hard. To resolve this, public transport should be encouraged to reduce the number of cars running on the street, so that traffic congestion can be eased.
+
+On the whole, although many cities face a range of problems, it is not unlikely to start tackling these issues. Governments and local councils must take the lead in dealing with these problems, otherwise, city life will only get worse in the future.
