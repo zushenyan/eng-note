@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1210/)
+
+It is believed that international travelling could do harm to the local environment and therefore, it should be limited. The impact on the surroundings is true to a certain degree. However, we should also take economic benefits into account, as support to the local residents is also important. Here I am going to elaborate on my thought regarding the idea.
+
+Ever since the rise of globalization, the number of international travellers has increased. It is no doubt that the danger of the regional environment being harmed also goes up. Not only do flights emit enormous amounts of CO2 by burning oil fuels, but the visiting of a large number of tourists may also lead to the destruction of the local ecosystem, especially those fragile areas like Antarctica. Therefore, some are calling for global travel to be restricted.
+
+Nevertheless, people have always been travelling globally. It is really challenging to regulate it. Not to mention the benefits to local businesses, as tourism plays a vital role when it comes to travelling. If heavy restrictions are imposed, it is likely to drive tourists away, as it may increase the difficulty and cost when travellers plan their itinerary, resulting in tourists no longer being interested in a particular spot. Consequently, an economic downturn could occur in the local industries.
+
+In conclusion, I would say it is hard to seek a balance between the protection of the regional environment and the local economy. Despite the difficulty, I still believe that governments should put restrictions on global travel to protect the environment.
