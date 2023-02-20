@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1183/)
+
+Taking a gap year before university has been quite popular among young people. People suggest that it can help youngsters to build more experience in either life or work, which is not offered by studying in schools. Here I am going to elaborate on this and give my opinion on this topic.
+
+Undoubtedly, there are things waiting to be discovered in this huge world. There is more to explore rather than burying one's head in books. Some believe taking a gap year provides opportunities which broaden one's horizon. For example, going to work for a year before continuing one's education could help teenagers to get various hands-on experiences for their careers in future. Travelling is also a common choice, as taking trips around places not only calms people's minds but also gains additional knowledge about the world. Besides, having these experience also builds up confidence for young adults. Moreover, the skills and experience gained will be useful when the young look for opportunities afterwards.
+
+On the other hand, taking a gap year can have its drawbacks. To begin with, it means spending a year away from studying. Returning to school and regaining discipline can be challenging. In addition, if better work compensation or travel is available, it could lead to going awry with the original plan and expanding the gap year. By no means am I saying taking an extra year of break is a wrong decision, but considering how competitive modern society is, continuing studying is still a worth-mentioning option.
+
+To sum up, I support taking a year-long break after finishing high school since everyone's story is unique. Only by exploring the world can people know what path they want to take. The earlier it starts, the better it will be, as making faults is more tolerable when people are young. A gap year will help those who are still hesitating about their future.
