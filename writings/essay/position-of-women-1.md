@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1192/)
+
+In spite of the fact that vast improvement has been made in the position of women over the past half a century, we are still some way from achieving true gender equality. Although women who were around the 1960s to 70s are struck by the significant improvement, evidence of inequalities is found in terms of gender parity.
+
+Women in the West have made enormous progress in fields such as education and employment over the past 50 years. During those years of improvement, we can see women out-achieve men educationally and enter occupations that would once have been out of bounds. In some cases, women attain high positions in organizations or have risen to the top of political power in some countries. Successful female entrepreneurs often appear in the media, perhaps leading some to conclude that women are now competing with men equally.
+
+However, if we look closely, we will learn that the problem still exists. Women still suffer inequalities in employment and have yet to achieve the same compensation as men who are doing a similar job. In addition, even nowadays, women are still generally responsible for child care and housework, creating a more challenging situation for those females who work full-time. Moreover, despite the success of some women in gaining influence, these are the exception rather than the rule. Women are still outnumbered in positions of power. Finally, the dominant view of women in the media is not one of the successful public figures but of a figure that the media uses to attract male audiences. It is a situation that has barely changed over the past 50 years.
+
+To sum up, despite the vast number of women presenting in higher positions in modern societies, there is still a long way to go if we hope for a truly gender-equalled society. The effort we have made in the past decades is still not enough. We must be better in the future.
