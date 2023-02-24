@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1165/)
+
+Ever since medical care has been vastly improved in the past century, the world's population has boomed dramatically. As a consequence, people are now able to live long enough into old age. Yet, is this having a harmful effect on societies across the globe, or are there more benefits than drawbacks? Here I am going to write an essay to elaborate on this topic.
+
+The most obvious issue with an ageing society is that it makes enormous demands on a nation's health service. As people live longer into their old age, the chance of getting serious illness increases. As a result, the likelihood of them requiring medical treatment becomes higher, and thus medical service becomes less available to the rest members of society. In addition, a possible downside is that living longer doesn't necessarily bring happiness, as elders are unable to do any activities due to their ageing physical condition, leading to the likelihood of depression and deterioration in their health.
+
+Having said that, one benefit to have an ageing society is that young people have a chance to learn the wisdom coming from older members of their families. In today's fast-paced world, it is often comforting to seek advice from older generations. What is more, retired people are generally much healthier than they have ever been, and often enjoy their lives more than they did when they were young. They have the best of both worlds - a family that can care for and look up to them.
+
+Weighing up both sides of the argument, although there are a number of problems that old age brings, predominantly health-related issues, however, the benefits that it brings to the family and society are impossible to ignore.
