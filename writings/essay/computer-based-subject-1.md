@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1161/)
+
+In recent years, there has been an evident trend that there has been a shift among college and university students away from traditional science and towards IT-based subjects. Overall, in my opinion, this is a negative development. Here I am going to elaborate on this topic.
+
+The rise in popularity of IT is unsurprising, given how popular computer technology is within societies. So many devices depend on computers that it has become one of the world's major industries. Besides, the media is full of stories of how founders of tech companies become millionaires, so it is easy to see why younger generations would be attracted to this industry as a field of study. It certainly seems a safer bet than a career in traditional science, which typically requires a longer commitment and possibly earns fewer rewards in terms of salary and social status.
+
+Nevertheless, both academia and society as a whole depend on a sustainable stream of talented scientists and engineers, pushing the boundaries of what is possible. These are the people who develop our medicines, design our cars, improve manufacturing processes and invent new materials - the list is endless, and their work is vital for improving the quality of life which we enjoy. A fall in the number of students taking science means a fall in the number of talented people doing such valuable work.
+
+To sum up, the move towards IT-based subjects and careers is understandable, given the importance of the computer industry and how gorgeous the compensation is. However, if this is at the expense of having new students and engineers, then this could be detrimental to the development of society. Without scientific innovation, the world will be a very different place.
