@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1142/)
+
+It is undeniable the fact that overpopulation is a growing concern in this fast-developing world, causing many other environmental problems. Although overpopulation does have negative impacts on the environment to an extent, the most evident issue is, in fact, caused by the way we choose to live. In the following essay, the issues involved will be discussed.
+
+The impact of overpopulation has some severe downsides for several reasons. An increase in population means more pollution caused by cars running on the road and factories producing products, chemicals and materials used in farming and housing. Pollution is undoubtedly a big issue when it comes to the environment, and it can cause detrimental effects on human and animal health. The other problem we are seeing is the decreasing natural resources. Modern society consumes more than it can produce as people continuously buy products and build more houses. Natural resources like fresh water, gas and oil are in demand.
+
+Perhaps overpopulation could not be an issue, however, if society changed the way in which it lived. In order to fight this environmental issue, the public can save natural resources by reducing water consumption or using fewer products. By recycling the garbage and putting them in use again, less waste will be generated. Another way to go around the pollution issue is to encourage the use of public transport. By encouraging people to take buses or trains instead of driving cars, the usage of resources, for example, oil, will be reduced, and therefore wasted gas will be further lessened.
+
+To sum up, although overpopulation is a significant concern to humans in regard to the environment, it would be less of an issue if we made several changes to our daily routine.
