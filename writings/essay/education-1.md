@@ -1,0 +1,11 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1135/)
+
+Education comes in many ways, not just formal schooling. People learn from all sources, which could be - their family, friends, the television, the Internet or personal experience and many other ways. Despite different avenues of learning being critical, I believe education within schools is much more vital, as it lays the foundations for future achievement. Here I will write an essay to discuss this topic.
+
+Firstly, formal education at school is often an entry point to many careers and jobs. Take scientists as an example, for those who want to walk down the path have to be excellent in many subjects. They need to perform well to go on to study for professional qualifications. In addition, many jobs require basic knowledge of maths and language when you apply. Without these qualifications, the number of careers an individual can choose is limited.
+
+Moreover, school is not only a place for study but also a place how to prepare for relationships outside the family, which is a crucial aspect of life. School is a great socialization occasion where one may meet various kinds of people from society. Students need to deal with relationships on many different levels, for example, teachers and school friends, and they also need to learn how to handle diverse stress and threats like bullies and workloads.
+
+In no way am I saying that family is not influential in education. Family plays an essential role in upbringing, as children often gain their moral outlook and aspirational goals from their family members. Nonetheless, children can still achieve something without a favourable family setting to a certain extent. It is doubtful whether they could succeed without formal school education.
+
+To sum up, although there are many forms of education, I believe schooling is more important than education within the family. It is because schools and universities offer qualifications and a way of socialization which the family cannot provide.
