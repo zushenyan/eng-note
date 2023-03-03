@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1133/)
+
+New technologies, in particular the Internet, are undoubtedly going to impact the ways goods and services are bought and sold. We are seeing a trend of online shopping becoming a mainstream activity. While some claim that the actual impact of the Internet on shopping is minor, I would argue that it is quite significant at different levels. Here I am going to write an essay to discuss this topic.
+
+The main reason is that the development of online shopping implies that the availability of goods on the market to the individual has grown exponentially. With access to the Internet, we can virtually buy anything from what has effectively become a worldwide retail market. For example, exotic foods, rare books, adventure holidays; the list is endless. Products that were once only available to those who live in metro areas with a wide variety of shops can now be purchased by those living in small towns with few local amenities.
+
+Another substantial point is that the buyer can have more control over the shopping process. Numerous price comparison sites make it easier to find bargains. Shopping can be done at any time of the day or night. Shoppers can browse for as long as they wish without pressure from sales assistants. The change in this trend means customers will be more astute and knowledgeable about the products they buy. Due to the competition between retailers and shops, sellers may have to improve the quality of their commodities or revise their marketing strategy to make themselves more competitive. Either way is a win for the customers.
+
+To sum up, experience suggests that online shopping has shifted the balance of power in favour of the customer. Consumers not only have wider access to goods but also have more transparent information and control over the goods they shop for.
