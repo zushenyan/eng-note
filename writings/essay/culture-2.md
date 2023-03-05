@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1129/)
+
+There is always an argument about if a person's culture is heavily influenced by his/her country of origin, whereas some believe it doesn't impact that much. The question is to what degree one's nationality influences his/her behaviour, or is nationality just one of the many factors in play? I would say both arguments have validity, but I would lean towards the latter.
+
+It is understandable why some members of society believe that the place people grow up plays a decisive role concerning one's culture. If a person is born and raised in a town, one will surely be heavily influenced by it. For example, diet preference is definitely affected by a place's cuisine style, and hence one's will favour specific types of foods even more. Consequently, we could conclude that we are a product of our environment. It is the environment which constructs us, and we represent the environment we grow up to an extent.
+
+On the other side of the argument, we need to consider globalization. Most people have daily access and exposure to other cultures, such as restaurants, films, music and all kinds of ubiquitous foreign businesses. One of the benefits of globalization is that it offers us a selection of cultural possibilities to choose from. It is unlikely to find a citizen who doesn't have preferences that aren't from outside of their country of origin. Moreover, as more and more people travel extensively away from their home country, these people will be subject to new influences inevitably.
+
+To sum up, while we are affected by our nationality, in this globalized world, one's country is only an aspect of our collective culture. We all adopt elements from other cultures daily unconsciously. It is what makes the world interesting.

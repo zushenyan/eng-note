@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1123/)
+
+Can you imagine waking up one day and being put into cages only to entertain humans? The presence of zoos in cities and towns has been questioned a lot recently, and opinions differ about whether they benefit the public and animals or if zoos should be closed. Here I am going to write an essay on this topic.
+
+Firstly, the main reason that people think zoos serve no positive purpose is that most people believe it is wrong to take animals out of their original habitats and put them into cages. Out of empathy, they believe capturing wild animals is cruel to attract visitors and make money. In addition, some argue that we should not interfere with nature, and if possible, wild animals should be left where they belong.
+
+As for alternatives, there are numerous approaches that we already have, and one example is Wildlife parks. These parks are becoming popular these days, as they keep a distance between wild lives and tourists, trying to maintain animals' habitats intact while still providing a close experience as possible. The other way is to let the public experience second-hand information. Through media like graphics, by sending professional photographers or video recorders, these crews help us capture vivid wildlife without bothering them in person. Channels like National Geographic provide similar programs that allow the audience to see different kinds of life on earth while sitting on the sofa.
+
+To sum up, zoos are not the only way for us to see and learn about wild animals. Even without zoos, it is still possible for ordinary people or scientists to preserve and experience nature.
