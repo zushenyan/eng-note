@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1122/)
+
+While most people believe that music is beneficial in many ways, some argue that modern music has negative impacts on the younger generations. The lyrics in most rap-type music involve gang violence. Another example is punk, which contains anti-social notions that might be detrimental to teenagers. Both sides have valid arguments from their point of view, and here I am going to write an essay on this topic.
+
+Firstly, older generations feel that modern types of music are often more harmful than having positive effects. They argue that lyrics in contemporary music express dangerous notions or emotions. Music written by youngsters is often full of violent or gloomy emotional lyrics, which might hurt the mental development of teenagers. Consequently, it may lead teenagers to the wrong path if no proper guidance is provided.
+
+On the other hand, the wide diversity of today's music means everyone can find the types of music they want to listen to. No one can control people's tastes or opinions, especially young people. Pop music is a dominant aspect of identity, as sharing an interest in music with their peers brings a sense of stability and belonging. Younger members of society would argue that lyrics are not only a mirror reflecting modern reality but also a crucial way of expressing their experience.
+
+To sum up, people always hesitate to accept new things they don't understand, and this can be the case with music. Nevertheless, we should not try to change others' preferences or tastes, instead, we should encourage new types of music or experiments. When a new genre of music is introduced to our society, it also adds a different aspect to our culture.
