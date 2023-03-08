@@ -1,0 +1,9 @@
+[link](https://www.ielts-writing.info/EXAM/ielts_writing_samples_task_2/1112/)
+
+With the increasing popularity of entertainment devices, gaming is also rising rapidly among the choice of interest. However, the trend also impacts children greatly. More and more young people are playing video games after school. This essay will look at the positive aspects of playing games and also the negative parts for children.
+
+Firstly, as education is becoming more demanding for many younger generations in today's society, video games can be a way of relaxing to make them temporarily escape from reality. In addition, computer games today are so advanced that they can even help teenagers to develop their thinking skills. Children are given instructions through games, and puzzles awaiting to be solved are often complicated enough to have them exercise their brains. Moreover, thanks to the Internet, game developers are also trying to integrate social features into their games, which means people can interact with others from all over the world, helping each other to stay connected.
+
+On the other hand, there are many problems with the increasing popularity of video games. Games are designed to be addictive, making people attach to games and consume their time as much as possible. The effect is detrimental to children as spending excessive time on games could badly impact education. Some governments have even banned people under 18 from playing games after midnight to prevent them from staying up. Besides, as games become more realistic and violent, some children might find it hard to distinguish between reality and virtuality, leading to a rise in the crime rate.
+
+To sum up, there are many advantages and disadvantages to computer games. Parents should stay cautious and monitor children's activity as some games are not for youngsters.
